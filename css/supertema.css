@@ -1,0 +1,10 @@
+html,
+body{
+    margin:0;
+    color:rgb(22, 167, 17);
+    background: #eee;
+    font-family: sans-serif;
+}
+body{
+    padding: 20px;
+}
