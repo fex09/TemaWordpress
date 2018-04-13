@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
   
     <title>Super Tema</title>
-    <?php wp_head(); ?>
+    <?php wp_head(); ?><!-- aquí es donde wordpress agrega todo lo que yo modifico del tema.--> 
 </head>
 <body>
 
