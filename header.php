@@ -10,6 +10,7 @@
 
 <?php
     /* is_home busca la pàgina de blog */
+    /** */
     if(is_front_page()):
         $clases_body = array('super-clase', 'mi-clase');
     else:
