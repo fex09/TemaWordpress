@@ -15,4 +15,6 @@ function super_tema_setup(){
     register_nav_menu( 'secundary', 'Navegación del Pie' );
 }
 
+/*add_action( 'after_setup_theme', 'super_tema_setup' );*/
 add_action( 'init', 'super_tema_setup' );
+ 
